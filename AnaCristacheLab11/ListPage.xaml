@@ -20,5 +20,5 @@
  Clicked="OnDeleteButtonClicked"/>
             </Grid>
         </StackLayout>
-    </ContentPage.Content>
+    </ContentPage.Content>
 </ContentPage>
